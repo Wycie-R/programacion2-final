@@ -15,13 +15,13 @@ Aplicación nativa de Android desarrollada para la gestión de inventario en dep
 
 De acuerdo a la rúbrica de evaluación, la aplicación implementa:
 
-* [cite_start]**🏗 Arquitectura MVVM:** Separación limpia de código usando *Model-View-ViewModel* para garantizar mantenibilidad y testeo[cite: 12].
-* [cite_start]**💾 Base de Datos Local (Room):** Persistencia de datos offline utilizando SQLite abstraído con la librería Room (Entidades y DAO)[cite: 12].
-* [cite_start]**🌐 Sincronización Cloud (Retrofit):** Envío automático de datos a un servidor remoto (Webhook.site) tras cada creación o modificación[cite: 12].
-* [cite_start]**📷 Integración de Cámara:** Captura de fotos utilizando `ActivityResultLauncher` y almacenamiento local seguro mediante `FileProvider`[cite: 12].
-* [cite_start]**📝 Sistema de Logs:** Registro interno de eventos (Creación, Modificación, Errores de Red) visualizable dentro de la app[cite: 12].
-* [cite_start]**✏️ CRUD Completo:** Funcionalidades para Agregar, Listar, Editar y Eliminar productos[cite: 13, 14].
-* [cite_start]**🎨 UI/UX Moderna:** Uso de `ConstraintLayout`, `RecyclerView`, `CardView` y librería `Glide` para manejo eficiente de imágenes.
+* **🏗 Arquitectura MVVM:** Separación limpia de código usando *Model-View-ViewModel* para garantizar mantenibilidad y testeo[cite: 12].
+* **💾 Base de Datos Local (Room):** Persistencia de datos offline utilizando SQLite abstraído con la librería Room (Entidades y DAO)[cite: 12].
+* **🌐 Sincronización Cloud (Retrofit):** Envío automático de datos a un servidor remoto (Webhook.site) tras cada creación o modificación[cite: 12].
+* **📷 Integración de Cámara:** Captura de fotos utilizando `ActivityResultLauncher` y almacenamiento local seguro mediante `FileProvider`[cite: 12].
+* **📝 Sistema de Logs:** Registro interno de eventos (Creación, Modificación, Errores de Red) visualizable dentro de la app[cite: 12].
+* **✏️ CRUD Completo:** Funcionalidades para Agregar, Listar, Editar y Eliminar productos[cite: 13, 14].
+* **🎨 UI/UX Moderna:** Uso de `ConstraintLayout`, `RecyclerView`, `CardView` y librería `Glide` para manejo eficiente de imágenes.
 
 ---
 
